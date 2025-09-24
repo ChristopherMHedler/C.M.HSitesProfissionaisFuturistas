@@ -125,7 +125,7 @@ O C.M.H Sites Profissionais Futuristas é mais do que uma simples plataforma de 
 
 Para mais informações ou para solicitar um orçamento, não hesite em entrar em contato conosco. Estamos à disposição para ajudá-lo a transformar sua presença digital.
 
-Visualizar o Portfólio: [https://christophermhedler.github.io/cartaodevisita/](https://christophermhedler.github.io/C.M.HSitesProfissionaisFuturistas)]
+Visualizar o Portfólio: [https://christophermhedler.github.io/C.M.HSitesProfissionaisFuturistas](https://christophermhedler.github.io/C.M.HSitesProfissionaisFuturistas)
 
 LinkedIn: [linkedin.com/in/christopher-hedler-738257301/(https://www.linkedin.com/in/christopher-hedler-738257301)
 
