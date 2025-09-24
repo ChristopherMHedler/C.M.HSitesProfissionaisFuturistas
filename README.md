@@ -124,3 +124,10 @@ Abra um Pull Request.
 O C.M.H Sites Profissionais Futuristas é mais do que uma simples plataforma de desenvolvimento web; é uma proposta de transformação digital para empresas e profissionais que buscam se destacar no ambiente online. Com foco em inovação, segurança e design de alta qualidade, estamos comprometidos em entregar soluções que atendam às expectativas e necessidades de nossos clientes.
 
 Para mais informações ou para solicitar um orçamento, não hesite em entrar em contato conosco. Estamos à disposição para ajudá-lo a transformar sua presença digital.
+
+Visualizar o Portfólio: [https://christophermhedler.github.io/cartaodevisita/](https://christophermhedler.github.io/C.M.HSitesProfissionaisFuturistas)]
+
+LinkedIn: [linkedin.com/in/christopher-hedler-738257301/](https://www.linkedin.com/in/christopher-hedler-738257301)
+
+GitHub: [ChristopherMHedler](https://github.com/ChristopherMHedler)
+
