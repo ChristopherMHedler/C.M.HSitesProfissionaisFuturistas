@@ -127,7 +127,7 @@ Para mais informações ou para solicitar um orçamento, não hesite em entrar e
 
 Visualizar o Portfólio: [https://christophermhedler.github.io/cartaodevisita/](https://christophermhedler.github.io/C.M.HSitesProfissionaisFuturistas)]
 
-LinkedIn: [linkedin.com/in/christopher-hedler-738257301/](https://www.linkedin.com/in/christopher-hedler-738257301)
+LinkedIn: [linkedin.com/in/christopher-hedler-738257301/(https://www.linkedin.com/in/christopher-hedler-738257301)
 
 GitHub: [ChristopherMHedler](https://github.com/ChristopherMHedler)
 
